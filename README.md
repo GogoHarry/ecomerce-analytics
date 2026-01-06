@@ -247,7 +247,7 @@ This project is licensed under the **MIT License**.
 
 **Author:** Gogo Harrison
 **Role:** Data Analyst / Data Scientist
-**Email / LinkedIn:** *(https://www.linkedin.com/in/gogo-harrison/)*
+**Email:** *gogoharrison66@gmail.com*
 
 ---
 
